@@ -85,6 +85,3 @@ Based on the dashboard insights, the following actions are recommended:
 * **Power BI Desktop:** For data transformation, DAX calculations, and dashboard visualization.
 * **Data Source:** Pamgolet Sales and Profit dataset (2013–2014).
 
----
-
-Would you like me to draft a **"How to Use"** section or a list of the specific **DAX measures** you might have used for these calculations?
